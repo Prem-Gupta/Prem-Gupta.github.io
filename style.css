@@ -1,0 +1,75 @@
+
+ .jumbotron{
+ 	background-image: url('img/header-bg.jpg') ;
+ 	background-size: cover;
+     height: 700px;
+     background-size: 100% 100%;
+ 	
+ }
+ .container-fluid {
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
+  .bg-2 {  
+      width: 100%;
+      
+      background-color:#fff;    
+  }
+  .bg-3 { 
+      background-color: #f3f4f8;
+      color: #555555;
+      width: 100%;;
+    
+  }
+  .bg-3 h2{
+  padding-top: 0;
+  	margin-top: 0;
+  	
+  }
+  .bg-3 study {
+  	padding-top: 10px;
+ 
+  }
+  table, th, td{
+  	color: black;
+  	 border: 1px solid black;
+  	border-collapse: collapse;
+
+  }
+ 
+  
+  .bg-4 { 
+      background-color: white;
+      color: #555555;
+      width: 100%;
+      
+  }
+  .bg-4 h1{
+  	color: black;
+  	
+  }
+  .bg-5 { 
+      background-color: #f3f4f8;
+      color: black;
+      width: 100%;
+  }
+  .bg-5 h2{
+  	padding-top: 0;
+  	margin-top: 0;
+  	
+  }
+  .isotope:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+ .element-item {
+  position: relative;
+  float: left;
+  width: 25%;
+  color: #262524;
+}
+.element-item > * {
+  margin: 0;
+  padding: 0;
+}
